@@ -18,6 +18,7 @@ public class ArraysToString {
 		
 			System.out.println("Print list " + Arrays.toString(num));
 		//System.out.println("Print list " + );
+		//
 	}
 
 }
