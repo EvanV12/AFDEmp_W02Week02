@@ -1,0 +1,4 @@
+Your name is: Castiel
+Your surname is: Novak
+Your age is: 555
+Your favorite color is: blue
